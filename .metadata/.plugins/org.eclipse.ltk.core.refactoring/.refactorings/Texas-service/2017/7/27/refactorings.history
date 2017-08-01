@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Texas-service&apos;&#x0A;- Original project: &apos;Texas-service&apos;&#x0A;- Original element: &apos;Texas-service/src/main/java/com.yeah.texas.service.impl&apos;" description="Delete element" element1="/src\/main\/java&lt;com.yeah.texas.service.impl" element2="/src\/main\/java&lt;com.yeah.texas.service" element3="/src\/main\/java&lt;com.yeah.texas" element4="/src\/main\/java&lt;com.yeah" element5="/src\/main\/java&lt;com" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1499070361778" subPackages="false" version="1.0"/>
+</session>

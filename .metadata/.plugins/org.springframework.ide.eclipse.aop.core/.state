@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Texas-service"/>
+<aop-project name="Texas-dao"/>
+<aop-project name="Texas-web"/>
+</aop-reference-model>
